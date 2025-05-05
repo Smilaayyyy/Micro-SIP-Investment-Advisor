@@ -1,0 +1,92 @@
+{
+  "HDFC_EQUITY": {
+    "name": "HDFC Equity Fund",
+    "category": "Equity: Large Cap",
+    "1y_return": 16.8,
+    "3y_return": 14.5,
+    "5y_return": 12.2,
+    "risk_level": "Moderate to High",
+    "expense_ratio": 1.65
+  },
+  "ICICI_PRUDENTIAL": {
+    "name": "ICICI Prudential Bluechip Fund",
+    "category": "Equity: Large Cap",
+    "1y_return": 15.9,
+    "3y_return": 13.8,
+    "5y_return": 11.7,
+    "risk_level": "Moderate to High",
+    "expense_ratio": 1.55
+  },
+  "SBI_BLUECHIP": {
+    "name": "SBI Bluechip Fund",
+    "category": "Equity: Large Cap",
+    "1y_return": 14.2,
+    "3y_return": 12.9,
+    "5y_return": 10.8,
+    "risk_level": "Moderate to High",
+    "expense_ratio": 1.58
+  },
+  "AXIS_MIDCAP": {
+    "name": "Axis Midcap Fund",
+    "category": "Equity: Mid Cap",
+    "1y_return": 19.5,
+    "3y_return": 16.7,
+    "5y_return": 14.1,
+    "risk_level": "High",
+    "expense_ratio": 1.75
+  },
+  "KOTAK_EMERGING": {
+    "name": "Kotak Emerging Equity Fund",
+    "category": "Equity: Mid Cap",
+    "1y_return": 18.9,
+    "3y_return": 15.8,
+    "5y_return": 13.6,
+    "risk_level": "High",
+    "expense_ratio": 1.7
+  },
+  "DSP_SMALL_CAP": {
+    "name": "DSP Small Cap Fund",
+    "category": "Equity: Small Cap",
+    "1y_return": 22.1,
+    "3y_return": 18.5,
+    "5y_return": 15.2,
+    "risk_level": "Very High",
+    "expense_ratio": 1.82
+  },
+  "HDFC_HYBRID": {
+    "name": "HDFC Hybrid Equity Fund",
+    "category": "Hybrid: Aggressive",
+    "1y_return": 13.5,
+    "3y_return": 11.8,
+    "5y_return": 10.2,
+    "risk_level": "Moderate",
+    "expense_ratio": 1.73
+  },
+  "ICICI_BALANCED": {
+    "name": "ICICI Prudential Balanced Advantage Fund",
+    "category": "Hybrid: Balanced",
+    "1y_return": 10.8,
+    "3y_return": 9.5,
+    "5y_return": 8.7,
+    "risk_level": "Moderate",
+    "expense_ratio": 1.65
+  },
+  "SBI_DEBT": {
+    "name": "SBI Debt Fund",
+    "category": "Debt: Medium Duration",
+    "1y_return": 7.5,
+    "3y_return": 6.8,
+    "5y_return": 6.2,
+    "risk_level": "Low to Moderate",
+    "expense_ratio": 1.25
+  },
+  "AXIS_LIQUID": {
+    "name": "Axis Liquid Fund",
+    "category": "Debt: Liquid",
+    "1y_return": 5.8,
+    "3y_return": 5.5,
+    "5y_return": 5.3,
+    "risk_level": "Low",
+    "expense_ratio": 0.45
+  }
+}
