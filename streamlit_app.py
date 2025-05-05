@@ -15,7 +15,7 @@ st.set_page_config(
 )
 
 # API endpoint
-API_ENDPOINT = "https://micro-sip-investment-advisor.onrender.com"
+API_ENDPOINT = "https://micro-sip-investment-advisor.onrender.com/api/sip_advisor"
 
 # App title and description
 st.title("Micro-SIP Investment Advisor")
