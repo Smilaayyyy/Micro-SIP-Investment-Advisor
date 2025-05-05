@@ -113,7 +113,7 @@ if submit_button:
                     if result['visualization']:
                         image_bytes = base64.b64decode(result['visualization'])
                         image = Image.open(BytesIO(image_bytes))
-                        st.image(image, use_column_width=True)
+                        st.image(image, use_container_width=True)
                 
                 # Display recommended funds
                 st.header("Recommended Funds")
